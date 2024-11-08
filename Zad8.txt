@@ -1,0 +1,11 @@
+onCreate(): Jest wywoływana, gdy aktywność jest tworzona. Jest to pierwsza metoda, która jest wywoływana po utworzeniu aktywności.
+onStart(): Jest wywoływana, gdy aktywność staje się widoczna dla użytkownika.
+onResume(): Jest wywoływana, gdy aktywność zaczyna wchodzić w interakcję z użytkownikiem.
+onPause(): Jest wywoływana, gdy aktywność przestaje być na pierwszym planie, ale nadal jest widoczna.
+onStop(): Jest wywoływana, gdy aktywność przestaje być widoczna dla użytkownika.
+onDestroy(): Jest wywoływana, gdy aktywność jest niszczona.
+
+Gdy obrócimy ekran, to zostanie wyświetlony początkowy ekran aplikacji.
+Gdy obrócimy ekran, po dodaniu obsługi wysyłania wartości za pomocą onSavedInstanceState, to zostanie wyświetlone to samo pytanie co przed obróceniem ekranu.
+
+W pliku AndroidManifest.xml pojawił się wpis związany z nową aktywnością.

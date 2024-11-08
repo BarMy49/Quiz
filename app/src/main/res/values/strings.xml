@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="correct_answer">Poprawna odpowiedź!</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź!</string>
+    <string name="q_weak">Thy quiz is now.</string>
+    <string name="q_java">Czy Java jest językiem programowania?</string>
+    <string name="q_html">Czy HTML jest językiem programowania?</string>
+    <string name="q_python">Czy Python jest językiem skryptowym?</string>
+    <string name="q_css">Czy CSS służy do dodawania skryptów do stron internetowych?</string>
+    <string name="q_sql">Czy SQL jest używany do zarządzania bazami danych?</string>
+    <string name="answer_was_shown">Odpowiedź została pokazana!</string>
+</resources>
